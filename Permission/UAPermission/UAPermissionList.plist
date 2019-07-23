@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Camera</key>
+	<dict>
+		<key>title</key>
+		<string>Camera</string>
+		<key>permissionImage</key>
+		<string>iPhone_Camera_Blur</string>
+		<key>permissionPopupImage</key>
+		<string>iPhone_Camera_Focus_Popup</string>
+		<key>description</key>
+		<string>UnApp will only upload and share photos you choose.</string>
+		<key>buttonTitle</key>
+		<string>Yes, Allow</string>
+		<key>permissionRequired</key>
+		<string>UnApp needs permission to access your device&apos;s camera to take a photo. Please go to Settings &gt; Privacy &gt; Camera, and enable UnApp.</string>
+	</dict>
+	<key>Location Always</key>
+	<dict>
+		<key>title</key>
+		<string>Turn on Location?</string>
+		<key>permissionImage</key>
+		<string>iPhone_Location</string>
+		<key>permissionPopupImage</key>
+		<string>iPhone_Location_Popup</string>
+		<key>description</key>
+		<string>We will help you locate the available vacant homes at your nearby locations.</string>
+		<key>buttonTitle</key>
+		<string>Yes, Allow</string>
+		<key>permissionRequired</key>
+		<string>UnApp needs permission to access your photo library to select a photo. Please go to Settings &gt; Privacy &gt; Photos, and enable UnApp.</string>
+	</dict>
+	<key>Location While Using</key>
+	<dict>
+		<key>title</key>
+		<string>Turn on Location?</string>
+		<key>permissionImage</key>
+		<string>iPhone_Location</string>
+		<key>permissionPopupImage</key>
+		<string>iPhone_Location_Popup</string>
+		<key>description</key>
+		<string>We will help you locate the available vacant homes at your nearby locations.</string>
+		<key>buttonTitle</key>
+		<string>Yes, Allow</string>
+		<key>permissionRequired</key>
+		<string>UnApp needs permission to access your photo library to select a photo. Please go to Settings &gt; Privacy &gt; Photos, and enable UnApp.</string>
+	</dict>
+	<key>Notification</key>
+	<dict>
+		<key>title</key>
+		<string>Turn on notifications?</string>
+		<key>permissionImage</key>
+		<string>iPhone_Notification</string>
+		<key>permissionPopupImage</key>
+		<string>iPhone_Notification_Popup</string>
+		<key>description</key>
+		<string>We can let you know when someone messages you, or notify you about other important account activity.</string>
+		<key>buttonTitle</key>
+		<string>Yes, notify me</string>
+		<key>permissionRequired</key>
+		<string>UnApp needs permission to access your photo library to select a photo. Please go to Settings &gt; Privacy &gt; Photos, and enable UnApp.</string>
+	</dict>
+	<key>Photos</key>
+	<dict>
+		<key>title</key>
+		<string>Photos</string>
+		<key>permissionImage</key>
+		<string>iPhone_Photos</string>
+		<key>permissionPopupImage</key>
+		<string>iPhone_Photos_Popup</string>
+		<key>description</key>
+		<string>UnApp will only upload and share photos you choose.</string>
+		<key>buttonTitle</key>
+		<string>Yes, Allow</string>
+		<key>permissionRequired</key>
+		<string>UnApp needs permission to access your photo library to select a photo. Please go to Settings &gt; Privacy &gt; Photos, and enable UnApp.</string>
+	</dict>
+</dict>
+</plist>
